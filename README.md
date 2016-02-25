@@ -53,6 +53,7 @@
 * Frameworks
     * [**Serveless** - The serverless application framework](https://github.com/serverless/serverless)
     * [**Deep Framework** - Serverless Web Framework for Cloud-Native Applications and Platforms using Microservices Architecture](https://github.com/MitocGroup/deep-framework)
+    * [**Apex** - Minimal AWS Lambda function manager](http://apex.run/)
 
 ---
 
