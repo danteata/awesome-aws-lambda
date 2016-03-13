@@ -3,21 +3,60 @@
 > Curated list of Awesome AWS Lambda seed repos, starters, boilerplates, examples, tutorials, components, modules, videos, and anything else in the AWS Lambda ecosystem
 
 ## [AWS Lambda](https://aws.amazon.com/lambda/)
-## [AWS Lambda Documentation](https://aws.amazon.com/documentation/lambda/)
 
 > Run code without thinking about servers.
 
+### Table of Contents
+- [Current Language support for AWS Lambda](#curent-language-support-for-aws-lambda)
+- [AWS Lambda Documentation](#aws-lambda-documentation)
+- [Slides](#slides)
+- [Books](#books)
+- [Presentations](#presentations)
+- [Articles](#articles)
+- [Resources](#resources)
+- [Articles and Tutorials](#articles-and-tutorials)
+- [Boilerplate](#boilerplate)
+- [Tools and Frameworks](#tools-and-frameworks)
+- [Examples](#examples)
+- [Other Alternatives](#other-alternatives)
+- [Contributing](#contributing)
+- [Code of Conduct](#code-of-conduct)
+- [License](#license)
 
 ##### Current Language support for AWS Lambda:
 * Node.js (JavaScript)
 * Python
 * Java (Java 8 compatible)
 
-## Books
+### [AWS Lambda Documentation](https://aws.amazon.com/documentation/lambda/)
+
+### Slides
+* [AWS Lambda and the Serverless Cloud](http://www.slideshare.net/AmazonWebServices/cmp301-aws-lambda-and-the-serverless-cloud)
+* [The Serverless Company Using AWS Lambda: Streamlining Architecture with AWS](http://www.slideshare.net/AmazonWebServices/arc308-the-serverless-company-using-aws-lambda)
+* [Building Scalable, Serverless Mobile and Internet of Things Back Ends](http://www.slideshare.net/AmazonWebServices/mbl302-scalable-serverless-mobile-iot-backendsporate-it-into-a-consumerfacing-device)
+* [Zero Infrastructure, Real-Time Data Collection, and Analytics](http://www.slideshare.net/AmazonWebServices/bdt307-zero-infrastructure-realtime-data-collection-and-analytics-53718073)
+* [Using Amazon API Gateway with AWS Lambda to Build Secure and Scalable APIs](http://www.slideshare.net/AmazonWebServices/dev203-amazon-api-gateway-aws-lambda-to-build-secure-apis)
+* [Build a Serverless Mobile Game with Amazon Cognito, Lambda, and DynamoDB](http://www.slideshare.net/AmazonWebServices/gam401-build-a-serverless-mobile-game-w-cognito-lambda-dynamodb)
+* [Microservices Architecture for Digital Platforms with AWS Lambda, Amazon CloudFront and Amazon DynamoDB](http://www.slideshare.net/mitocgroup/arc201-microservices-architecture-aws-reinvent-2015)
+* [AWS Lambda: Simplifying Big Data Workloads](http://www.slideshare.net/AmazonWebServices/cmp403-aws-lambda-simplifying-big-data-workloads)
+* [Lambda as Cron: Scheduling Invocations in AWS Lambda](http://www.slideshare.net/AmazonWebServices/cmp407-lambda-as-cron-scheduling-invocations-in-aws-lambda)
+* [JAWS: The Monstrously Scalable Serverless Framework – AWS Lambda, Amazon API Gateway, and More!](http://www.slideshare.net/AmazonWebServices/dvo209-jaws-a-scalable-serverless-framework)
+
+### Books
 * [AWS Lambda: A Guide to Serverless Microservices](http://www.amazon.com/AWS-Lambda-Guide-Serverless-Microservices-ebook/dp/B016JOMAEE)
 
 ### Presentations
 * [ReInvent presentation on “Getting started with AWS Lambda”](https://www.youtube.com/watch?v=UFj27laTWQA)
+* [AWS Lambda and the Serverless Cloud](https://www.youtube.com/watch?v=pBLdMCksM3A)
+* [The Serverless Company Using AWS Lambda: Streamlining Architecture with AWS](https://www.youtube.com/watch?v=U8ODkSCJpJU)
+* [Building Scalable, Serverless Mobile and Internet of Things Back Ends](https://www.youtube.com/watch?v=GnaO-LwdSuU)
+* [Zero Infrastructure, Real-Time Data Collection, and Analytics](https://www.youtube.com/watch?v=ygHGPnAd0Uo)
+* [Using Amazon API Gateway with AWS Lambda to Build Secure and Scalable APIs](https://www.youtube.com/watch?v=ZBxWZ9bgd44)
+* [Build a Serverless Mobile Game with Amazon Cognito, Lambda, and DynamoDB](https://www.youtube.com/watch?v=JT2xOYOdUvM)
+* [Microservices Architecture for Digital Platforms with AWS Lambda, Amazon CloudFront and Amazon DynamoDB](https://aws.amazon.com/blogs/compute/aws-lambda-sessions-at-reinvent-2015-wrap-up/#)
+* [AWS Lambda: Simplifying Big Data Workloads](https://www.youtube.com/watch?v=WWDHxy4zuqg)
+* [Lambda as Cron: Scheduling Invocations in AWS Lambda](https://www.youtube.com/watch?v=FhJxTIq81AU)
+* [JAWS: The Monstrously Scalable Serverless Framework – AWS Lambda, Amazon API Gateway, and More!](https://www.youtube.com/watch?v=D_U6luQ6I90)
 
 ---
 
@@ -36,6 +75,7 @@
 * [AWS Lambda real world example — Spreash integrations](https://medium.com/@spreash/aws-lambda-real-world-example-spreash-integrations-the-story-about-an-ideal-fit-79eeadd2a826#.qk4en74by)
 * [AWS Lambda Makes Serverless Applications A Reality](http://techcrunch.com/2015/11/24/aws-lamda-makes-serverless-applications-a-reality/#.w4drli9:xqKY)
 * [Tutorial: AWS API Gateway to Lambda to DynamoDB](https://snowulf.com/2015/08/05/tutorial-aws-api-gateway-to-lambda-to-dynamodb/)
+* [How To Build An API In 10 Minutes](http://readwrite.com/2015/11/16/how-to-build-an-api-amazon-lambda)
 
 ---
 
@@ -56,7 +96,8 @@
 
 ---
 
-### [Examples](examples/README.md)
+### [Examples]
+* [Lambda Chat](https://github.com/cloudnative/lambda-chat)
 
 ---
 
@@ -65,6 +106,17 @@
 
 ---
 
-### Contribution
+### Contributing
 Your contributions and suggestions are heartily♡ welcome. (✿◠‿◠)
 
+Read [this](https://github.com/simplemerchant/awesome-aws-lambda/blob/master/CONTRIBUTING.md) if you want to contribute to this list.
+
+### Code of conduct
+
+Read [this](https://github.com/simplemerchant/awesome-aws-lambda/blob/master/CODE_OF_CONDUCT.md) regarding the code of conduct.
+
+### License
+
+[![CC0](http://i.creativecommons.org/p/zero/1.0/88x31.png)](http://creativecommons.org/publicdomain/zero/1.0/)
+
+To the extent possible under law, [Simple Merchant](https://github.com/simplemerchant) has waived all copyright and related or neighboring rights to this work.
