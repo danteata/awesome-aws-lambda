@@ -26,6 +26,7 @@
 * Node.js (v0.10.36, v4.3.2)
 * Python (Python 2.7)
 * Java (Java 8)
+* .NET Core 1.0.1 (C#)
 
 ### AWS Lambda Documentation
   * [AWS Lambda Documentation](https://aws.amazon.com/documentation/lambda/)
