@@ -80,6 +80,7 @@
   * [**grunt-aws-lambda** - A grunt plugin to assist in developing functions for AWS Lambda.](https://github.com/Tim-B/grunt-aws-lambda)
   * [**node-aws-lambda** - A module help you automate AWS lambda function deployment.](https://github.com/ThoughtWorksStudios/node-aws-lambda)
   * [**node-lambda** - Command line tool to locally run and deploy your node.js application to Amazon Lambda.](https://github.com/motdotla/node-lambda)
+  * [**emulambda** - Python emulator for AWS Lambda.](https://github.com/fugue/emulambda)
 
 #### Frameworks
   * [**Serveless** - The serverless application framework](https://github.com/serverless/serverless)
