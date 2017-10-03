@@ -97,6 +97,7 @@
   * [**Cloud Functions**](https://cloud.google.com/functions/docs)
   * [**Azure Functions**](https://azure.microsoft.com/en-us/services/functions/)
   * [**Iron.io**](http://www.iron.io/)
+  * [**Fission**](http://fission.io/)
 
 ### Contributing
 Your contributions and suggestions are heartily♡ welcome. (✿◠‿◠)
