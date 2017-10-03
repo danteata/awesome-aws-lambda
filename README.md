@@ -77,6 +77,7 @@
 
 ### Tools and Frameworks
 #### Tools
+  * [**aws-lambda-debugger** - Remote debugging tool for Lambda functions running on Node 6.10](https://github.com/trek10inc/aws-lambda-debugger)
   * [**aws-lambda-plugin** - Jenkins plugin for AWS Lambda deployment](https://github.com/jenkinsci/aws-lambda-plugin)
   * [**grunt-aws-lambda** - A grunt plugin to assist in developing functions for AWS Lambda.](https://github.com/Tim-B/grunt-aws-lambda)
   * [**node-aws-lambda** - A module help you automate AWS lambda function deployment.](https://github.com/ThoughtWorksStudios/node-aws-lambda)
