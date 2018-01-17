@@ -27,6 +27,7 @@
 * Python (Python 2.7)
 * Java (Java 8)
 * .NET Core 1.0.1 (C#)
+* Go (1.x)
 
 ### AWS Lambda Documentation
   * [AWS Lambda Documentation](https://aws.amazon.com/documentation/lambda/)
@@ -84,6 +85,7 @@
   * [**node-aws-lambda** - A module help you automate AWS lambda function deployment.](https://github.com/ThoughtWorksStudios/node-aws-lambda)
   * [**node-lambda** - Command line tool to locally run and deploy your node.js application to Amazon Lambda.](https://github.com/motdotla/node-lambda)
   * [**emulambda** - Python emulator for AWS Lambda.](https://github.com/fugue/emulambda)
+  * [**gluo** - Write your Go net/http server once, deploy it everywhere (on-premise & AWS Lambda supported)](https://github.com/imdario/gluo)
 
 #### Frameworks
   * [**Serveless** - The serverless application framework](https://github.com/serverless/serverless)
