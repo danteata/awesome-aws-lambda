@@ -27,6 +27,7 @@
 * Python (Python 2.7)
 * Java (Java 8)
 * .NET Core 1.0.1 (C#)
+* Go (1.x)
 
 ### AWS Lambda Documentation
   * [AWS Lambda Documentation](https://aws.amazon.com/documentation/lambda/)
@@ -79,10 +80,12 @@
 #### Tools
   * [**aws-lambda-debugger** - Remote debugging tool for Lambda functions running on Node 6.10](https://github.com/trek10inc/aws-lambda-debugger)
   * [**aws-lambda-plugin** - Jenkins plugin for AWS Lambda deployment](https://github.com/jenkinsci/aws-lambda-plugin)
+  * [**aws-lambda-go** - Libraries, samples and tools to help Go developers develop AWS Lambda functions](https://github.com/aws/aws-lambda-go)
   * [**grunt-aws-lambda** - A grunt plugin to assist in developing functions for AWS Lambda.](https://github.com/Tim-B/grunt-aws-lambda)
   * [**node-aws-lambda** - A module help you automate AWS lambda function deployment.](https://github.com/ThoughtWorksStudios/node-aws-lambda)
   * [**node-lambda** - Command line tool to locally run and deploy your node.js application to Amazon Lambda.](https://github.com/motdotla/node-lambda)
   * [**emulambda** - Python emulator for AWS Lambda.](https://github.com/fugue/emulambda)
+  * [**gluo** - Write your Go net/http server once, deploy it everywhere (on-premise & AWS Lambda supported)](https://github.com/imdario/gluo)
 
 #### Frameworks
   * [**Serveless** - The serverless application framework](https://github.com/serverless/serverless)
