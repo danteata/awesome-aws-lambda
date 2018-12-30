@@ -95,6 +95,7 @@
 
 ### [Examples]
   * [Lambda Chat](https://github.com/cloudnative/lambda-chat)
+  * [AWS Lambda Test Runner](https://github.com/automatictester/lambda-test-runner)
 
 ### Other Alternatives
   * [**Cloud Functions**](https://cloud.google.com/functions/docs)
