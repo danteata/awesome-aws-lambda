@@ -93,6 +93,7 @@
   * [**Apex** - Minimal AWS Lambda function manager](http://apex.run/)
   * [**Chalice** - Python Serverless Microframework for AWS](https://github.com/awslabs/chalice)
   * [**FuseLess** - Framework for writing AWS Lambda Functions in CFML](https://fuseless.org/)
+  * [**Stacktape** - DevOps-free cloud framework with 0 config lambda deployment support](https://stacktape.com)
 
 ### [Examples]
   * [Lambda Chat](https://github.com/cloudnative/lambda-chat)
